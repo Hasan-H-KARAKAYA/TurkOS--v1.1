@@ -1,4 +1,4 @@
-# TurkOS--v1.0
+# TurkOS--v1.1
 
 Uzun Süredir Üzeninde Çalıştığımız bir projemiz
 İlerleyen dönemde bu projeyi daha fazla geliştireceğiz...
