@@ -1,7 +1,6 @@
 # TurkOS--v1.1
 
-Uzun Süredir Üzeninde Çalıştığımız bir projemiz
-İlerleyen dönemde bu projeyi daha fazla geliştireceğiz...
+Eski projelerimizden birinin geliştirilmiş hali
 
 Uygulamayı setup dosyasından kurarak kullanabilirsiniz.
 
